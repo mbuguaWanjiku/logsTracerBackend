@@ -1,0 +1,14 @@
+{
+    "registeredClients": {
+        "clientA": [
+            "app_a",
+            "app_b",
+            "app_c"
+        ],
+        "clientB": [
+            "app_c",
+            "app_a"
+        ]
+    }
+}
+
